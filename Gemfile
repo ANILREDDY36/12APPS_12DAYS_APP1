@@ -63,3 +63,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'devise'
 gem 'bootstrap-sass'
 gem 'acts_as_votable'
+gem 'simple_form'
+gem 'record_tag_helper', '~> 1.0'
